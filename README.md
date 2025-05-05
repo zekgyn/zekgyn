@@ -1,15 +1,10 @@
 <h2>🏆 My Github Journey:</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zekgyn&label=Profile%20views&color=0e75b6&style=flat" alt="zekgyn" /> </p>
+
+<a align="right" href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=zekgyn&column=10&theme=gruvbox&no-frame=true"/>
 </a>
-
-
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=zekgyn&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekgyn&layout=compact" />
-</div>
 
 ---
 <h2>My Tech Stach:</h2>
@@ -39,9 +34,17 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
  </p>
+ 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekgyn&show_icons=true&locale=en&layout=compact" alt="zekgyn" /></p>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekgyn&show_icons=true&locale=en&layout=compact" alt="zekgyn" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekgyn&show_icons=true&locale=en" alt="zekgyn" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zekgyn&count_private=true&include_all_commits=true&show_icons=true&locale=en" alt="zekgyn" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zekgyn&" alt="zekgyn" /></p>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zekgyn" alt="zekgyn" />
+</p>
+
